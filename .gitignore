@@ -1,0 +1,5 @@
+*.pyc
+results/
+training/
+MNIST_data/
+.idea
